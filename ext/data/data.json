@@ -1139,11 +1139,6 @@
     "type" : "bias",
     "notes" : "Part of David Horowitz' Freedom Center"
   },
-  "fusion.net" : {
-    "language" : "en",
-    "type" : "political",
-    "notes" : "website contains some satire "
-  },
   "gaia.com" : {
     "language" : "en",
     "type" : "conspiracy",
@@ -2207,11 +2202,6 @@
   "redflagnews.com" : {
     "language" : "en",
     "type" : "bias",
-    "notes" : ""
-  },
-  "redstate.com" : {
-    "language" : "en",
-    "type" : "political",
     "notes" : ""
   },
   "redstatewatcher.com" : {
